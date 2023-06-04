@@ -8,6 +8,7 @@
 * **Event Driven Architecture offers benefits such as scalability, loose coupling, flexibility, and real-time processing.**
 ### Prerequisites
 * **AWS Account**
+### GitHub Repo:- https://github.com/sampathshivakumar/Event-Driven-Architecture
 ### Lets start Builing Event Driven Architecture
 
 ### Create S3 Bucket
